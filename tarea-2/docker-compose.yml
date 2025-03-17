@@ -1,0 +1,6 @@
+version: "1"
+services:
+  react-app:
+    build: .
+    ports:
+      - "80:80"
